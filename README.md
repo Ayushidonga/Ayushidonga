@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Ayushidonga/Ayushidonga/main/my.png" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Ayushi Donga</h1>
+<<h1 align="center">Hi 👋, I'm Ayushi Donga</h1>
 <h3 align="center">BCA Student | Full Stack Web Developer 💻</h3>
 
 ---
@@ -22,39 +22,21 @@
 ---
 
 ### 📂 Projects:
-
-#### 🐾 Smart Animal Care & Information System
-- Full stack web application
-- Tech: React.js, Node.js, MongoDB
-
-#### 🎂 CakeCrafter (Customization System)
-- Interactive cake design UI
-- Tech: Angular, MongoDB
-
-#### 🛒 Online Cake Shop
-- E-commerce website
-- Tech: React.js & PHP versions
-
-#### 📊 Digital Lifestyle Analysis
-- Data analysis + ML project
-- Tech: Python, Pandas, Matplotlib
+- 🐾 Smart Animal Care System (React, Node, MongoDB)
+- 🎂 CakeCrafter (Angular, MongoDB)
+- 🛒 Online Cake Shop (React & PHP)
+- 📊 Digital Lifestyle Analysis (Python, Pandas)
 
 ---
 
 ### 💼 Internship Experience:
-- 👨‍💻 Full Stack Intern – CareerSahi Edtech Pvt.Ltd
+- 👩‍💻 Full Stack Intern – CareerSahi Edtech Pvt. Ltd
 - 🌐 Web Design Intern – Oasis Infobyte
 
 ---
 
-### 🔗 Connect with Me:
+### 📬 Contact:
 - 📧 Email: ayushidonga2006@gmail.com
 - 📱 Phone: +91 7359710714
-
----
-### 📊 GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushidonga&show_icons=true&theme=default" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushidonga&layout=compact&theme=default" />
 
