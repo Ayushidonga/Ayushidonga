@@ -52,9 +52,9 @@
 - 📱 Phone: +91 7359710714
 
 ---
-
 ### 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ayushidonga&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushidonga&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushidonga&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushidonga&layout=compact&theme=tokyonight" />
+
