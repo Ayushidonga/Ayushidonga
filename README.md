@@ -21,10 +21,10 @@
 
 ---
 
-### 📂 Projects:
+### 📂 BCA Projects:
 - 🐾 Smart Animal Care System (React, Node, MongoDB)
 - 🎂 CakeCrafter (Angular, MongoDB)
-- 🛒 Online Cake Shop (React & PHP)
+- 🛒 Online Cake Shop (React Version & PHP Version)
 - 📊 Digital Lifestyle Analysis (Python, Pandas)
 
 ---
@@ -38,5 +38,4 @@
 ### 📬 Contact:
 - 📧 Email: ayushidonga2006@gmail.com
 - 📱 Phone: +91 7359710714
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushidonga&layout=compact&theme=default" />
 
