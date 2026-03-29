@@ -39,3 +39,7 @@
 - 📧 Email: ayushidonga2006@gmail.com
 - 📱 Phone: +91 7359710714
 
+### 🔗 Connect with Me:
+
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/ayushi-donga-2a733b377?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💻 [My GitHub](https://github.com/Ayushidonga)
