@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Ayushidonga/Ayushidonga/main/my.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Ayushidonga/Ayushidonga/main/my.png" width="100%" height="50px" />
 
 <<h1 align="center">Hi 👋, I'm Ayushi Donga</h1>
 <h3 align="center">BCA Student | Full Stack Web Developer 💻</h3>
